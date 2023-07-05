@@ -25,9 +25,12 @@
               "src/assets"
             ],
             "styles": [
-              "src/styles.css"
+              "src/styles.css",
+              "ProyectoIntegrador_SergioArielCarrizoZarate/node_modules/bootstrap/css/bootstrap.css"
             ],
-            "scripts": []
+            "scripts": [
+              "ProyectoIntegrador_SergioArielCarrizoZarate/node_modules/bootstrap/js/bootstrap.js"
+            ]
           },
           "configurations": {
             "production": {
@@ -94,5 +97,8 @@
         }
       }
     }
+  },
+  "cli": {
+    "analytics": "90d0b0fa-9eef-429c-a017-a96b3bff32d6"
   }
 }
